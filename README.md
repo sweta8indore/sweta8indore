@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sweta Mishra</h1>
 <h3 align="center">A passionate Web developer and Mobile apps developer from India</h3>
-<img align="right" alt="coding" src="![image](https://github.com/sweta8indore/sweta8indore/assets/44045993/762b58ed-3b61-42be-a8b4-27bccf0c6b87)
-">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweta8indore&label=Profile%20views&color=0e75b6&style=flat" alt="sweta8indore" /> </p>
 
