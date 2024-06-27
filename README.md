@@ -1,4 +1,4 @@
-![logo]([https://github.com/sweta8indore/sweta8indore/blob/main/banner_git.jpg](https://github.com/sweta8indore/sweta8indore/blob/main/pngtree-ai-artificial-intelligence-starry-sky-portrait-blue-technology-banner-image_804237.jpg))
+![logo](https://github.com/sweta8indore/sweta8indore/blob/main/pngtree-ai-artificial-intelligence-starry-sky-portrait-blue-technology-banner-image_804237.jpg)
 
 <h1 align="center">Hi 👋, I'm Sweta Mishra</h1>
 <h3 align="center">A passionate Web developer and Mobile apps developer from India</h3>
