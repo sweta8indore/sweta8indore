@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sweta Mishra</h1>
 <h3 align="center">A passionate Web developer and Mobile apps developer from India</h3>
-<img align="right" alt="banner" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animation%2Ffemale-web-developer-8679685&psig=AOvVaw1pbMKgifyjVSdsojWkh2z6&ust=1719566497335000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIC-6M66-4YDFQAAAAAdAAAAABAR"/>
+<img align="right" alt="coding" width='400' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animation%2Ffemale-web-developer-8679685&psig=AOvVaw1pbMKgifyjVSdsojWkh2z6&ust=1719566497335000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIC-6M66-4YDFQAAAAAdAAAAABAR">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweta8indore&label=Profile%20views&color=0e75b6&style=flat" alt="sweta8indore" /> </p>
 
