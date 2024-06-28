@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **iOS Application Development**
 
-- I am available for freelance work [website redesiging & development, Mobile Apss Development](https://www.upwork.com/freelancers/swetamishra4)
+- I am available for freelance work [website redesiging & development, Mobile Apps Development](https://www.upwork.com/freelancers/swetamishra4)
 
 - 💬 Ask me about **Php framework(ci, Laravel, Wp), Android apps(Native app in android studio: java and kotlin)**
 
