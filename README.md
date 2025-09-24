@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweta8indore&label=Profile%20views&color=0e75b6&style=flat" alt="sweta8indore" /> </p>
 
-- 🔭 I’m currently working on [Nevaloss Technologies Pvt. Ltd.](https://www.nevalosstechnologies.com/)
+- 🔭 I’m currently working on [Nevaloss Technologies Pvt. Ltd.](https://www.nevalosstechnologies.com/) as devops engineer.
 
 - 🌱 I’m currently learning **iOS Application Development**
 
