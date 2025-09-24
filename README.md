@@ -1,4 +1,4 @@
-![logo](https://github.com/sweta8indore/sweta8indore/blob/main/git_baner.png)
+![logo](https://github.com/sweta8indore/sweta8indore/blob/main/gitbaner2.png)
 
 <h1 align="center">Hi 👋, I'm Sweta Mishra</h1>
 <h3 align="center">A passionate Web developer and Mobile apps developer from India</h3>
