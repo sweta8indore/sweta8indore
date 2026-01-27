@@ -1,7 +1,7 @@
 ![logo](https://github.com/sweta8indore/sweta8indore/blob/main/pngtree-ai-artificial-intelligence-starry-sky-portrait-blue-technology-banner-image_804237.jpg)
 
 <h1 align="center">Hi 👋, I'm Sweta Mishra</h1>
-<h3 align="center">A passionate Devops Engineer from India</h3>
+<h3 align="center">A passionate DevSecOps Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 
